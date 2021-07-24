@@ -17,7 +17,7 @@ function bubbleSort(arr) {
     return arr;
 }
 
-// bubbleSort works by having sorted data accumulate at the beginning of array.
+// SelectionSort works by having sorted data accumulate at the beginning of array.
 function selectionSort(arr) {
     for(let j = 0; j < arr.length; j++) {
         let initial = j;
@@ -30,4 +30,3 @@ function selectionSort(arr) {
     }
     return arr;
 }
-
