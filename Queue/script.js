@@ -1,5 +1,5 @@
 // The Queue data structure has methods 'enqueue' and 'dequeue' 
-// which adds / removes elements from the queue AND
+// which add / remove elements from the queue AND
 // also maintain "first-in-firt-out"
 class Queue {
 	constructor() {
